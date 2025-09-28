@@ -1,204 +1,71 @@
-[20:20:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:20:16] [ServerMain/INFO]: No existing world data, creating new world
-[20:20:17] [ServerMain/INFO]: Loaded 1407 recipes
-[20:20:17] [ServerMain/INFO]: Loaded 1520 advancements
-[20:20:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:20:17] [Server thread/INFO]: Loading properties
-[20:20:17] [Server thread/INFO]: Default game type: SURVIVAL
-[20:20:17] [Server thread/INFO]: Generating keypair
-[20:20:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:20:17] [Server thread/INFO]: Using epoll channel type
-[20:20:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:20:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:20:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:20:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:20:17] [Server thread/INFO]: Preparing level "world"
-[20:20:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:20:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[20:20:24] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[20:20:25] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[20:20:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[20:20:26] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[20:20:26] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[20:20:27] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[20:20:27] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[20:20:28] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[20:20:28] [Server thread/INFO]: Time elapsed: 4442 ms
-[20:20:28] [Server thread/INFO]: Done (10.719s)! For help, type "help"
-[20:20:42] [Server thread/INFO]: SebasyTU_[/127.19.202.255:39631] logged in with entity id 57 at (-4.5, 66.0, 5.5)
-[20:20:42] [Server thread/INFO]: SebasyTU_ joined the game
-[20:21:48] [Server thread/INFO]: SebasyTU_ lost connection: Disconnected
-[20:21:48] [Server thread/INFO]: SebasyTU_ left the game
-[20:22:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:24:39] [Server thread/INFO]: SebasyTU_[/127.19.202.255:41195] logged in with entity id 1140 at (8.685375843537306, 64.0, -7.477713464510371)
-[20:24:39] [Server thread/INFO]: SebasyTU_ joined the game
-[20:24:42] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[20:25:16] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:25:19] [Server thread/INFO]: regsexl[/127.177.128.108:56719] logged in with entity id 1532 at (0.5, 68.0, 3.5)
-[20:25:19] [Server thread/INFO]: regsexl joined the game
-[20:26:39] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:26:40] [Server thread/INFO]: regsexl has made the advancement [Stone Age]
-[20:26:41] [Server thread/INFO]: SebasyTU_ has made the advancement [Stone Age]
-[20:27:23] [Server thread/INFO]: SebasyTU_ has made the advancement [Getting an Upgrade]
-[20:27:51] [Server thread/INFO]: regsexl has made the advancement [Getting an Upgrade]
-[20:29:29] [Server thread/INFO]: SebasyTU_ went up in flames
-[20:29:45] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:30:05] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:30:30] [Server thread/INFO]: Locating element minecraft:village_plains took 0 ms
-[20:30:32] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to 368.500000, 64.000000, 304.500000]
-[20:31:45] [Server thread/INFO]: [SebasyTU_: Applied effect Dolphin's Grace to regsexl]
-[20:31:54] [Server thread/INFO]: [SebasyTU_: Removed every effect from regsexl]
-[20:32:46] [Server thread/INFO]: regsexl has made the advancement [Sweet Dreams]
-[20:32:58] [Server thread/INFO]: SebasyTU_ has made the advancement [Sweet Dreams]
-[20:33:00] [Server thread/INFO]: [Not Secure] <SebasyTU_> wwwwwwwwww
-[20:33:02] [Server thread/INFO]: [Not Secure] <regsexl> ww
-[20:33:03] [Server thread/INFO]: [Not Secure] <regsexl> w
-[20:33:03] [Server thread/INFO]: [Not Secure] <regsexl> ww
-[20:33:03] [Server thread/INFO]: [Not Secure] <regsexl> w
-[20:33:03] [Server thread/INFO]: [Not Secure] <regsexl> w
-[20:33:03] [Server thread/INFO]: [Not Secure] <regsexl> w
-[20:33:04] [Server thread/INFO]: [Not Secure] <regsexl> w
-[20:35:03] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:35:06] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
-[20:35:09] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[20:35:23] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:36:29] [Server thread/INFO]: SebasyTU_ was slain by regsexl
-[20:36:33] [Server thread/INFO]: regsexl was killed
-[20:36:33] [Server thread/INFO]: [SebasyTU_: Killed regsexl]
-[20:36:35] [Server thread/INFO]: regsexl lost connection: Disconnected
-[20:36:35] [Server thread/INFO]: regsexl left the game
-[20:36:40] [Server thread/INFO]: regsexl[/127.177.128.108:42885] logged in with entity id 6486 at (416.2732790621755, 113.92159999847412, 453.98753583497523)
-[20:36:40] [Server thread/INFO]: regsexl joined the game
-[20:37:00] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:37:11] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:37:17] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
-[20:37:46] [Server thread/INFO]: [SebasyTU_: Applied effect Jump Boost to 2 targets]
-[20:37:55] [Server thread/INFO]: regsexl fell from a high place
-[20:37:58] [Server thread/INFO]: SebasyTU_ fell from a high place
-[20:38:09] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
-[20:38:09] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:38:13] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:38:15] [Server thread/INFO]: SebasyTU_ was slain by Iron Golem
-[20:38:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:38:36] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
-[20:38:47] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:39:15] [Server thread/WARN]: SebasyTU_ moved too quickly! 1.9639502081645333,-10.170797282908353,-0.12326103912158715
-[20:39:16] [Server thread/INFO]: SebasyTU_ fell from a high place
-[20:39:19] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:39:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:39:35] [Server thread/INFO]: [SebasyTU_: Removed 103 item(s) from player regsexl]
-[20:39:46] [Server thread/INFO]: [SebasyTU_: Removed 177 item(s) from 2 players]
-[20:39:52] [Server thread/INFO]: [SebasyTU_: Removed 9 item(s) from 2 players]
-[20:40:37] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:40:44] [Server thread/INFO]: [SebasyTU_: Successfully filled 6156 block(s)]
-[20:41:11] [Server thread/INFO]: [SebasyTU_: Successfully filled 6156 block(s)]
-[20:41:46] [Server thread/INFO]: SebasyTU_ was slain by Zombie
-[20:41:49] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:41:51] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:42:17] [Server thread/INFO]: regsexl has made the advancement [Monster Hunter]
-[20:42:20] [Server thread/INFO]: SebasyTU_ was slain by Zombie
-[20:42:23] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:42:26] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:42:32] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[20:42:43] [Server thread/INFO]: [SebasyTU_: Successfully filled 128 block(s)]
-[20:42:54] [Server thread/INFO]: [SebasyTU_: Successfully filled 12 block(s)]
-[20:43:12] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:43:57] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[20:44:18] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:44:20] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:44:42] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:44:45] [Server thread/INFO]: regsexl was blown up by Creeper
-[20:44:45] [Server thread/INFO]: SebasyTU_ was blown up by Creeper
-[20:44:47] [Server thread/INFO]: regsexl lost connection: Disconnected
-[20:44:47] [Server thread/INFO]: regsexl left the game
-[20:44:54] [Server thread/INFO]: regsexl[/127.177.128.108:39511] logged in with entity id 11107 at (366.94735810629646, 39.0, 475.53592063274186)
-[20:44:54] [Server thread/INFO]: regsexl joined the game
-[20:44:59] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:45:02] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:45:09] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
-[20:48:02] [Server thread/INFO]: [SebasyTU_: Summoned new Ender Dragon]
-[20:48:03] [Server thread/INFO]: SebasyTU_ was slain by Ender Dragon
-[20:48:07] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:48:09] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:48:37] [Server thread/INFO]: [SebasyTU_: Applied effect Nausea to regsexl]
-[20:49:08] [Server thread/INFO]: [SebasyTU_: Removed every effect from regsexl]
-[20:49:16] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to regsexl]
-[20:49:50] [Server thread/INFO]: regsexl has made the advancement [Acquire Hardware]
-[20:49:56] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to SebasyTU_]
-[20:50:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=894, y=60, z=248} jb{x=894, y=60, z=247}
-[20:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=894, y=60, z=247} jb{x=894, y=60, z=248}
-[20:50:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=894, y=59, z=247} jb{x=894, y=60, z=248}
-[20:50:40] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:50:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=867, y=45, z=250} jb{x=866, y=44, z=250}
-[20:50:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=861, y=41, z=250} jb{x=860, y=40, z=250}
-[20:50:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=855, y=37, z=250} jb{x=854, y=36, z=250}
-[20:50:54] [Server thread/INFO]: SebasyTU_ was slain by regsexl
-[20:51:02] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:51:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=850, y=34, z=250} jb{x=843, y=32, z=250}
-[20:51:04] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:51:41] [Server thread/INFO]: regsexl was slain by SebasyTU_
-[20:51:43] [Server thread/INFO]: SebasyTU_ has made the advancement [Acquire Hardware]
-[20:51:46] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:51:54] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:51:59] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:52:05] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
-[20:52:12] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to SebasyTU_]
-[20:52:39] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to 2 targets]
-[20:52:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=871, y=44, z=238} jb{x=871, y=44, z=239}
-[20:52:49] [Server thread/INFO]: SebasyTU_ tried to swim in lava
-[20:52:52] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:52:54] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:52:57] [Server thread/INFO]: [SebasyTU_: Applied effect Haste to 2 targets]
-[20:53:23] [Server thread/INFO]: [SebasyTU_: Teleported 2 entities to 2002.500000, 80.000000, 2002.500000]
-[20:53:26] [Server thread/WARN]: SebasyTU_ moved too quickly! 0.0,-10.612022956862127,0.0
-[20:53:26] [Server thread/WARN]: regsexl moved too quickly! 0.11349616017469089,-11.433643280623428,-0.15553224236623464
-[20:53:48] [Server thread/INFO]: [SebasyTU_: Removed every effect from 2 targets]
-[20:54:15] [Server thread/INFO]: [SebasyTU_: Applied effect Dolphin's Grace to regsexl]
-[20:54:34] [Server thread/INFO]: [SebasyTU_: Applied effect Levitation to regsexl]
-[20:54:39] [Server thread/INFO]: regsexl has completed the challenge [Great View From Up Here]
-[20:54:41] [Server thread/WARN]: regsexl moved too quickly! 0.0,20.960017752644376,0.0
-[20:54:48] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:55:04] [Server thread/INFO]: [SebasyTU_: Applied effect Levitation to 2 targets]
-[20:55:04] [Server thread/INFO]: SebasyTU_ has completed the challenge [Great View From Up Here]
-[20:55:05] [Server thread/WARN]: regsexl moved too quickly! 0.5391182695025236,22.71684986093578,-0.01979315293056061
-[20:55:06] [Server thread/WARN]: regsexl moved too quickly! 0.3525612468658892,20.50247707809615,-0.0466430337564816
-[20:55:09] [Server thread/WARN]: regsexl moved too quickly! 0.557311772575531,22.775908753571457,-0.08621643571405002
-[20:55:10] [Server thread/WARN]: SebasyTU_ moved too quickly! 0.0,22.775927978119398,0.0
-[20:55:14] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:55:21] [Server thread/WARN]: regsexl moved too quickly! 0.0,22.775927978157597,0.0
-[20:55:27] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:55:55] [Server thread/WARN]: regsexl moved too quickly! 0.0,-23.51961019675491,0.0
-[20:55:59] [Server thread/WARN]: regsexl moved too quickly! 0.0,-16.995443045553657,0.0
-[20:56:01] [Server thread/INFO]: [SebasyTU_: Set the time to 1000]
-[20:56:05] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:09] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:11] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:12] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:14] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:15] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to regsexl]
-[20:56:16] [Server thread/WARN]: regsexl moved too quickly! 0.0,-23.48656022426394,0.0
-[20:56:51] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:57:13] [Server thread/INFO]: [SebasyTU_: Applied effect Saturation to 2 targets]
-[20:57:20] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:57:36] [Server thread/INFO]: [SebasyTU_: Applied effect Saturation to regsexl]
-[20:57:45] [Server thread/INFO]: [SebasyTU_: Removed every effect from 2 targets]
-[20:58:02] [Server thread/INFO]: [SebasyTU_: Applied effect Invisibility to 311 targets]
-[20:58:12] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Creative Mode]
-[20:58:18] [Server thread/INFO]: [SebasyTU_: Teleported 314 entities to SebasyTU_]
-[20:58:22] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
-[20:58:27] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:58:32] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
-[20:58:40] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:58:41] [Server thread/INFO]: regsexl has made the advancement [Cover Me with Diamonds]
-[20:58:45] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
-[20:58:52] [Server thread/INFO]: [SebasyTU_: Removed 233 item(s) from 2 players]
-[20:59:02] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:59:10] [Server thread/INFO]: [SebasyTU_: Removed every effect from 2 targets]
-[20:59:15] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
-[20:59:19] [Server thread/INFO]: regsexl was shot by Skeleton
-[20:59:19] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Spectator Mode]
-[20:59:29] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
-[20:59:40] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
-[20:59:57] [Server thread/INFO]: [SebasyTU_: Removed every effect from 229 targets]
-[21:00:02] [Server thread/INFO]: [SebasyTU_: Set own game mode to Spectator Mode]
-[21:00:05] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:24:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:24:57] [ServerMain/INFO]: Loaded 1407 recipes
+[19:24:57] [ServerMain/INFO]: Loaded 1520 advancements
+[19:24:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:24:57] [Server thread/INFO]: Loading properties
+[19:24:57] [Server thread/INFO]: Default game type: SURVIVAL
+[19:24:57] [Server thread/INFO]: Generating keypair
+[19:24:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:24:57] [Server thread/INFO]: Using epoll channel type
+[19:24:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:24:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:24:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:24:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:24:57] [Server thread/INFO]: Preparing level "world"
+[19:24:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:25:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:25:01] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[19:25:01] [Server thread/INFO]: Time elapsed: 3588 ms
+[19:25:01] [Server thread/INFO]: Done (3.910s)! For help, type "help"
+[19:25:30] [Server thread/INFO]: regsexl[/127.177.128.108:58191] logged in with entity id 1 at (1941.3055134681033, 81.07142456641853, 2039.918265036204)
+[19:25:30] [Server thread/INFO]: regsexl joined the game
+[19:25:31] [Server thread/INFO]: Betroxx123[/127.241.53.86:56331] logged in with entity id 325 at (3.5, 68.0, 9.5)
+[19:25:31] [Server thread/INFO]: Betroxx123 joined the game
+[19:27:15] [Server thread/INFO]: Set regsexl's game mode to Survival Mode
+[19:27:21] [Server thread/INFO]: regsexl was killed
+[19:27:21] [Server thread/INFO]: Betroxx123 was killed
+[19:27:21] [Server thread/INFO]: Killed 2 entities
+[19:27:31] [Server thread/INFO]: Betroxx123 lost connection: Disconnected
+[19:27:31] [Server thread/INFO]: Betroxx123 left the game
+[19:27:38] [Server thread/INFO]: Betroxx123[/127.241.53.86:42087] logged in with entity id 2438 at (30.59326819104288, 71.11935202557957, 4.387974926079829)
+[19:27:38] [Server thread/INFO]: Betroxx123 joined the game
+[19:29:23] [Server thread/INFO]: Unknown game mode: survial
+[19:29:23] [Server thread/INFO]: ...de survial @a<--[HERE]
+[19:30:00] [Server thread/INFO]: Betroxx123 lost connection: Disconnected
+[19:30:00] [Server thread/INFO]: Betroxx123 left the game
+[19:32:33] [Server thread/INFO]: SebasyTU_[/127.19.202.255:60519] logged in with entity id 2439 at (1939.9360363352748, 80.1624412557676, 2046.2922722121402)
+[19:32:33] [Server thread/INFO]: SebasyTU_ joined the game
+[19:32:51] [Server thread/INFO]: [SebasyTU_: Teleported SebasyTU_ to 20002.500000, 80.000000, 20002.500000]
+[19:33:09] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
+[19:33:14] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
+[19:33:14] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:33:31] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:33:35] [Server thread/INFO]: [SebasyTU_: Set spawn point to 20007, 87, 20003 [0.0] in minecraft:overworld for 2 players]
+[19:33:38] [Server thread/INFO]: [Not Secure] <regsexl> ok
+[19:33:40] [Server thread/INFO]: regsexl was killed while fighting Zombie
+[19:33:40] [Server thread/INFO]: SebasyTU_ was killed
+[19:33:40] [Server thread/INFO]: [SebasyTU_: Killed 345 entities]
+[19:33:43] [Server thread/INFO]: [SebasyTU_: Set own game mode to Creative Mode]
+[19:33:44] [Server thread/INFO]: regsexl lost connection: Disconnected
+[19:33:44] [Server thread/INFO]: regsexl left the game
+[19:33:49] [Server thread/INFO]: regsexl[/127.177.128.108:42281] logged in with entity id 4466 at (20006.70624772829, 87.0, 20011.146521646755)
+[19:33:49] [Server thread/INFO]: regsexl joined the game
+[19:33:57] [Server thread/INFO]: [SebasyTU_: Teleported regsexl to SebasyTU_]
+[19:34:03] [Server thread/INFO]: [SebasyTU_: Set own game mode to Survival Mode]
+[19:34:03] [Server thread/INFO]: [SebasyTU_: Set regsexl's game mode to Survival Mode]
+[19:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=20002, y=88, z=20005} jb{x=20000, y=88, z=20005}
+[19:34:15] [Server thread/INFO]: regsexl lost connection: Disconnected
+[19:34:15] [Server thread/INFO]: regsexl left the game
+[19:34:19] [Server thread/INFO]: regsexl[/127.177.128.108:41491] logged in with entity id 4480 at (20002.959654706163, 88.0, 20004.52367465387)
+[19:34:19] [Server thread/INFO]: regsexl joined the game
