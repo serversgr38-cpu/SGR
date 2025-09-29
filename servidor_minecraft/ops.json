@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "8f6fe868-56f3-38a6-924a-047c59815361",
+    "name": "hysleria",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "77a390da-81bb-3a9a-83b6-98e9f9115325",
     "name": "SebasyTU_",
     "level": 4,
