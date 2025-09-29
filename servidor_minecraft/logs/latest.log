@@ -290,3 +290,55 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [29Sep2025 21:20:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was slain by Betroxx123
 [29Sep2025 21:20:35.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was doomed to fall by SebasyTU_
 [29Sep2025 21:21:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
+[29Sep2025 21:22:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:22:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was slain by Betroxx123
+[29Sep2025 21:23:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: The difficulty has been set to Peaceful]
+[29Sep2025 21:23:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was shot by SebasyTU_
+[29Sep2025 21:23:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
+[29Sep2025 21:23:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was shot by SebasyTU_
+[29Sep2025 21:24:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was shot by SebasyTU_
+[29Sep2025 21:24:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:25:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported mqfxr1 to SebasyTU_]
+[29Sep2025 21:25:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
+[29Sep2025 21:25:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:25:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set spawn point to 425, 54, 1687 [0.0] in minecraft:overworld for 4 players]
+[29Sep2025 21:25:58.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:26:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:26:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported SebasyTU_ to Betroxx123]
+[29Sep2025 21:26:16.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported SebasyTU_ to zSxhio]
+[29Sep2025 21:26:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:26:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:26:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:27:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:27:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set the time to 1000]
+[29Sep2025 21:27:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:27:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:27:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:28:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SebasyTU_ was killed
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was killed whilst fighting Betroxx123
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was killed whilst fighting Betroxx123
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was killed whilst fighting zSxhio
+[29Sep2025 21:28:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Killed 4 entities]
+[29Sep2025 21:28:24.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:28:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:28:34.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:28:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was doomed to fall by zSxhio
+[29Sep2025 21:28:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was doomed to fall by zSxhio
+[29Sep2025 21:28:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was doomed to fall by mqfxr1
+[29Sep2025 21:28:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Successfully filled 1764 block(s)]
+[29Sep2025 21:29:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was doomed to fall by Betroxx123
+[29Sep2025 21:29:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zSxhio> afk
+[29Sep2025 21:29:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:29:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was slain by mqfxr1
+[29Sep2025 21:29:51.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:30:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:30:04.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set spawn point to 427, 54, 1688 [0.0] in minecraft:overworld for 4 players]
+[29Sep2025 21:30:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported zSxhio to SebasyTU_]
+[29Sep2025 21:30:26.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Removed 37 item(s) from 4 players]
+[29Sep2025 21:31:29.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Betroxx123 lost connection: Disconnected
+[29Sep2025 21:31:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 left the game
+[29Sep2025 21:31:45.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a881fb2[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:59489) lost connection: Disconnected
+[29Sep2025 21:31:59.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41442dab[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:38869) lost connection: Disconnected
+[29Sep2025 21:32:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:32:16.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:32:17.603] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f15fc8a[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:39419) lost connection: Disconnected

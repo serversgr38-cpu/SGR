@@ -1704,3 +1704,152 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [29Sep2025 21:20:36.523] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759180836523
 [29Sep2025 21:21:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
 [29Sep2025 21:21:45.560] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759180905546
+[29Sep2025 21:22:19.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:22:48.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ToyStory2
+[29Sep2025 21:22:48.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ToyStory2
+[29Sep2025 21:22:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was slain by Betroxx123
+[29Sep2025 21:22:53.855] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759180973855
+[29Sep2025 21:23:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: The difficulty has been set to Peaceful]
+[29Sep2025 21:23:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was shot by SebasyTU_
+[29Sep2025 21:23:19.934] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759180999934
+[29Sep2025 21:23:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
+[29Sep2025 21:23:27.352] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181007352
+[29Sep2025 21:23:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was shot by SebasyTU_
+[29Sep2025 21:23:41.455] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181021455
+[29Sep2025 21:24:48.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was shot by SebasyTU_
+[29Sep2025 21:24:55.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:25:09.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported mqfxr1 to SebasyTU_]
+[29Sep2025 21:25:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was shot by SebasyTU_
+[29Sep2025 21:25:24.356] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181124356
+[29Sep2025 21:25:27.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:25:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set spawn point to 425, 54, 1687 [0.0] in minecraft:overworld for 4 players]
+[29Sep2025 21:25:42.741] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181142741
+[29Sep2025 21:25:58.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:26:00.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:26:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported SebasyTU_ to Betroxx123]
+[29Sep2025 21:26:16.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported SebasyTU_ to zSxhio]
+[29Sep2025 21:26:20.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:26:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:26:59.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:27:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:27:43.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set the time to 1000]
+[29Sep2025 21:27:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:27:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:27:48.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save ToyStory2
+[29Sep2025 21:27:48.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete ToyStory2
+[29Sep2025 21:27:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:28:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SebasyTU_ was killed
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was killed whilst fighting Betroxx123
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was killed whilst fighting Betroxx123
+[29Sep2025 21:28:11.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was killed whilst fighting zSxhio
+[29Sep2025 21:28:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Killed 4 entities]
+[29Sep2025 21:28:12.468] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181292468
+[29Sep2025 21:28:12.921] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181292921
+[29Sep2025 21:28:12.933] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181292933
+[29Sep2025 21:28:13.338] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181293338
+[29Sep2025 21:28:24.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Survival Mode]
+[29Sep2025 21:28:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:28:34.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:28:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mqfxr1 was doomed to fall by zSxhio
+[29Sep2025 21:28:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 was doomed to fall by zSxhio
+[29Sep2025 21:28:46.301] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181326301
+[29Sep2025 21:28:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was doomed to fall by mqfxr1
+[29Sep2025 21:28:47.663] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181327663
+[29Sep2025 21:28:48.493] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181328493
+[29Sep2025 21:28:54.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Successfully filled 1764 block(s)]
+[29Sep2025 21:29:08.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was doomed to fall by Betroxx123
+[29Sep2025 21:29:10.008] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181350008
+[29Sep2025 21:29:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zSxhio> afk
+[29Sep2025 21:29:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:29:41.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zSxhio was slain by mqfxr1
+[29Sep2025 21:29:51.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:30:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported 4 entities to SebasyTU_]
+[29Sep2025 21:30:04.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set spawn point to 427, 54, 1688 [0.0] in minecraft:overworld for 4 players]
+[29Sep2025 21:30:10.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Teleported zSxhio to SebasyTU_]
+[29Sep2025 21:30:20.315] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759181420314
+[29Sep2025 21:30:26.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Removed 37 item(s) from 4 players]
+[29Sep2025 21:31:29.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Betroxx123 lost connection: Disconnected
+[29Sep2025 21:31:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Betroxx123 left the game
+[29Sep2025 21:31:32.706] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[29Sep2025 21:31:32.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[29Sep2025 21:31:32.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[29Sep2025 21:31:32.849] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[29Sep2025 21:31:32.898] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[29Sep2025 21:31:32.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[29Sep2025 21:31:33.000] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[29Sep2025 21:31:33.050] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[29Sep2025 21:31:33.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[29Sep2025 21:31:33.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[29Sep2025 21:31:33.201] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[29Sep2025 21:31:33.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[29Sep2025 21:31:33.298] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[29Sep2025 21:31:33.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[29Sep2025 21:31:33.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[29Sep2025 21:31:33.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[29Sep2025 21:31:33.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[29Sep2025 21:31:33.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[29Sep2025 21:31:33.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[29Sep2025 21:31:33.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[29Sep2025 21:31:33.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[29Sep2025 21:31:33.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[29Sep2025 21:31:33.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config charginggadgets-server.toml' to 'fml:handshake' sequence 21
+[29Sep2025 21:31:33.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 22
+[29Sep2025 21:31:33.899] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[29Sep2025 21:31:33.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 24
+[29Sep2025 21:31:45.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a881fb2[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:59489) lost connection: Disconnected
+[29Sep2025 21:31:48.784] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[29Sep2025 21:31:48.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[29Sep2025 21:31:48.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[29Sep2025 21:31:48.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[29Sep2025 21:31:48.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[29Sep2025 21:31:48.999] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[29Sep2025 21:31:49.050] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[29Sep2025 21:31:49.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[29Sep2025 21:31:49.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[29Sep2025 21:31:49.200] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[29Sep2025 21:31:49.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[29Sep2025 21:31:49.301] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[29Sep2025 21:31:49.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[29Sep2025 21:31:49.402] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[29Sep2025 21:31:49.449] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[29Sep2025 21:31:49.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[29Sep2025 21:31:49.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[29Sep2025 21:31:49.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[29Sep2025 21:31:49.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[29Sep2025 21:31:49.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[29Sep2025 21:31:49.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[29Sep2025 21:31:49.801] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[29Sep2025 21:31:49.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config charginggadgets-server.toml' to 'fml:handshake' sequence 21
+[29Sep2025 21:31:49.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 22
+[29Sep2025 21:31:49.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[29Sep2025 21:31:50.000] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 24
+[29Sep2025 21:31:59.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41442dab[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:38869) lost connection: Disconnected
+[29Sep2025 21:32:02.243] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 25 messages to dispatch.
+[29Sep2025 21:32:02.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[29Sep2025 21:32:02.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[29Sep2025 21:32:02.350] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[29Sep2025 21:32:02.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[29Sep2025 21:32:02.451] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[29Sep2025 21:32:02.502] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[29Sep2025 21:32:02.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[29Sep2025 21:32:02.601] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[29Sep2025 21:32:02.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[29Sep2025 21:32:02.701] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[29Sep2025 21:32:02.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[29Sep2025 21:32:02.801] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[29Sep2025 21:32:02.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[29Sep2025 21:32:02.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[29Sep2025 21:32:02.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[29Sep2025 21:32:03.001] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[29Sep2025 21:32:03.051] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[29Sep2025 21:32:03.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[29Sep2025 21:32:03.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[29Sep2025 21:32:03.203] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[29Sep2025 21:32:03.251] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[29Sep2025 21:32:03.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config charginggadgets-server.toml' to 'fml:handshake' sequence 21
+[29Sep2025 21:32:03.352] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 22
+[29Sep2025 21:32:03.402] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[29Sep2025 21:32:03.452] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 24
+[29Sep2025 21:32:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Spectator Mode]
+[29Sep2025 21:32:16.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SebasyTU_: Set own game mode to Creative Mode]
+[29Sep2025 21:32:17.603] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f15fc8a[id=<null>,name=Betroxx123,properties={},legacy=false] (/127.241.53.86:39419) lost connection: Disconnected
