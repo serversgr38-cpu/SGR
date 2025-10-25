@@ -1,0 +1,308 @@
+[15:05:32] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[15:05:32] [main/WARN]: Warnings were found!
+ - Mod 'Big Globe' (bigglobe) 5.0.8 recommends any version of cloth-config, which is missing!
+	 - You should install any version of cloth-config for the optimal experience.
+ - Mod 'Big Globe' (bigglobe) 5.0.8 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[15:05:32] [main/INFO]: Loading 46 mods:
+	- bigglobe 5.0.8
+	   \-- builderb0y_autocodec 6.0.2
+	- diversity 2.5.3
+	- fabric-api 0.136.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.1.0+c21d71cc2c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.1.0+c75de69d2c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.14+97214db32c
+	   |-- fabric-data-generation-api-v1 23.2.8+2e1c6d322c
+	   |-- fabric-dimensions-v1 4.0.20+948fc79a2c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.26+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.7+946bf4c32c
+	   |-- fabric-networking-api-v1 5.1.0+57cb96dd2c
+	   |-- fabric-object-builder-api-v1 21.1.10+946bf4c32c
+	   |-- fabric-particles-v1 4.1.10+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.17+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.30+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+	   |-- fabric-renderer-indigo 4.0.4+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.2.0+e0cb65d02c
+	   |-- fabric-screen-handler-api-v1 1.3.139+946bf4c32c
+	   |-- fabric-serialization-api-v1 1.0.0+fc0e5aba2c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.5.0+c847ce762c
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- faewulf_lib 1.3.2
+	   |-- com_electronwill_night-config_core 3.6.0
+	   \-- com_electronwill_night-config_toml 3.6.0
+	- java 21
+	- minecraft 1.21.8
+[15:05:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/SGR/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:05:32] [main/INFO]: Compatibility level set to JAVA_17
+[15:05:32] [main/INFO]: Compatibility level set to JAVA_18
+[15:05:32] [main/INFO]: Compatibility level set to JAVA_21
+[15:05:33] [main/INFO]: Not applying mixin builderb0y.bigglobe.mixins.BigGlobeConfig_ImplementConfigData because required mod cloth-config is absent.
+[15:05:33] [main/INFO]: Not applying mixin builderb0y.bigglobe.mixins.DhScriptedWorldGenerator_BackwardsCompatibility because required mod distanthorizons is absent.
+[15:05:33] [main/INFO]: Not applying mixin builderb0y.bigglobe.mixins.ImmersivePortals_NetherPortalMatcher_PlacePortalHigherInBigGlobeWorlds because required mod imm_ptl_core is absent.
+[15:05:33] [main/INFO]: Applying mixin builderb0y.bigglobe.mixins.MobSpawnerLogic_SpawnLightning because incompatible mod connectormod is absent.
+[15:05:33] [main/INFO]: Applying mixin builderb0y.bigglobe.mixins.MobSpawnerLogic_SpawnLightning because incompatible mod connector is absent.
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Bigger radius bookshelf for enchanting table' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config '1 tick delay copper bulb' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Backup Enchantments' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Bundle's Enchantment' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Banner trophies' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Beacon extended' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Bonemeal small flowers' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Bonemeal coral fan/block' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Day counter' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Ticks per day' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Message tick speed' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Deepslate generator' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Glow berry gives glow effect' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Wash filled map with Cauldron' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Invisible item frame' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Click through sign/itemframe' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Faster minecart' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Faster oxidization' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Sneak through sweet berry' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'No level limit anvil' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Prevent farmland trampling' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Torch burns target' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'No set spawn on sleep' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Sleep doesn't skip weather' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Shulker label' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Usable suspicious block' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'XP crops' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Mud support sugarcane' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Wet sponge dry in warm biome' in category 'general'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Bundle place function' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Check Villagers schedule' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Clock shows current time' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Hoe harvests crops' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Mace rotate blocks' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Trident can call thunder storm' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Shear can pickpocket villager' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Shear can defuse TNT' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Shear prevents plant from growing' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Spyglass what is that?' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Normal inspect range' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Normal mode: Show block's name' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Normal mode: Show distance' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Normal mode: Show block's direction' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Normal mode: Show hidden infos' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Inspect range when zooming' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Zoom mode: Show block's name' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Zoom mode: Show distance' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Zoom mode: Show block's direction' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Zoom mode: Show hidden infos' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Waxed copper indicator' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Slime chunk detector' in category 'item'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config '9 lives cat' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Baby nametag' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Silent nametag' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Brushable parrot/chicken' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Chicken egg try hatch on despawn' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Explosive sniffer' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Sniffer sniff moss block' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Fox bury items' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Fox auto breed from berries' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Pat you pets' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Piglin treats golden trimmed armor as golden armor' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Horse can seat on boat' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'No saddled mobs wandering' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Rabbit breed after eats carrot crops' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Random size fishes/squid' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Smaller bee' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Snow Golem produces powder snow' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Wandering trader announcer' in category 'entity'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Suspicious sand/gravel recipe' in category 'recipe'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Hydrophobic elytra' in category 'cursed'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'End stone is cheese' in category 'cursed'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Reverse phantom spawn condition' in category 'cursed'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Enable permission system' in category 'command'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Emote commands' in category 'command'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'EasyShulkerBoxes Compatibility Layer' in category 'compatibility'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Enchancement Compatibility Layer' in category 'compatibility'. Override with default value...
+[15:05:33] [main/WARN]: [Faewulf's Lib] Invalid type for config 'Block day counter message' in category 'client'. Override with default value...
+[15:05:33] [main/WARN]: Error loading class: fuzs/iteminteractions/api/v1/provider/impl/BundleProvider (java.lang.ClassNotFoundException: fuzs/iteminteractions/api/v1/provider/impl/BundleProvider)
+[15:05:33] [main/WARN]: Error loading class: fuzs/metalbundles/world/item/MetalBundleItem (java.lang.ClassNotFoundException: fuzs/metalbundles/world/item/MetalBundleItem)
+[15:05:33] [main/WARN]: Error loading class: moriyashiine/enchancement/common/util/EnchancementUtil (java.lang.ClassNotFoundException: moriyashiine/enchancement/common/util/EnchancementUtil)
+[15:05:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:05:37] [main/WARN]: @Final field field_36535:Ljava/util/List; in diversity.mixins.json:general.enchantTableAcceptFurtherBookshelf.EnchantingTableBlockMixin from mod diversity should be final
+[15:05:42] [main/INFO]: Initializing...
+[15:05:42] [main/INFO]: Failed to register ConfigSerializer. Cloth Config is probably not installed.
+[15:05:43] [main/INFO]: Distant horizons compatibility disabled.
+[15:05:43] [main/INFO]: Done initializing.
+[15:05:43] [main/INFO]: [Diversity] Loading
+[15:05:43] [main/INFO]: [Diversity] Register commands...
+[15:05:43] [main/INFO]: [Diversity] Register events...
+[15:05:43] [main/INFO]: [Diversity] Init done
+[15:05:43] [main/INFO]: [Faewulf's Lib] Initializing...
+[15:05:43] [main/INFO]: [Faewulf's Lib] Hello from Faewulf with <3
+[15:05:43] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:05:43] [main/INFO]: ColumnEntryRegistry resetting: null; override: null
+java.lang.Throwable: The following stack trace is NOT an error. It is debug information that is useful if you get data pack validation issues and none of your worlds load correctly.
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.reset(ColumnEntryRegistry.java:236) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/net.minecraft.class_7237.handler$zcj000$bigglobe$resetColumnEntryRegistry(class_7237.java:531) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237.method_42098(class_7237.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.method_43612(Main.java:187) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1098) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1092) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:185) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.3]
+[15:05:43] [main/INFO]: Found new data pack bigglobe, loading it automatically
+[15:05:43] [main/INFO]: Found new data pack diversity, loading it automatically
+[15:05:43] [main/INFO]: Found new data pack fabric, loading it automatically
+[15:05:43] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[15:05:43] [main/INFO]: Found new data pack faewulf_lib, loading it automatically
+[15:05:44] [main/INFO]: ColumnEntryRegistry begin load: null; override: null
+java.lang.Throwable: The following stack trace is NOT an error. It is debug information that is useful if you get data pack validation issues and none of your worlds load correctly.
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.beginLoad(ColumnEntryRegistry.java:241) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/net.minecraft.class_7655.modifyReturnValue$zch000$bigglobe$beginLoading(class_7655.java:1520) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_46619(class_7655.java:241) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_45121(class_7655.java:210) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.mixinextras$bridge$method_45121$40(class_7655.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.wrapOperation$bbe000$fabric-registry-sync-v0$wrapIsServerCall(class_7655.java:2555) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_56515(class_7655.java:193) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237.method_42098(class_7237.java:41) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.method_43612(Main.java:187) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1098) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1092) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:185) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.3]
+[15:05:44] [main/INFO]: Reading minecraft:overworld chunk generator from mod jar.
+[15:05:44] [main/INFO]: Reading minecraft:the_nether chunk generator from mod jar.
+[15:05:44] [main/INFO]: Reading minecraft:the_end chunk generator from mod jar.
+[15:05:44] [main/INFO]: Reading minecraft:overworld chunk generator from mod jar.
+[15:05:44] [main/INFO]: Reading minecraft:the_nether chunk generator from mod jar.
+[15:05:44] [main/INFO]: Reading minecraft:the_end chunk generator from mod jar.
+[15:05:45] [main/INFO]: ColumnEntryRegistry begin load: builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading@3438e8f5; override: null
+java.lang.Throwable: The following stack trace is NOT an error. It is debug information that is useful if you get data pack validation issues and none of your worlds load correctly.
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.beginLoad(ColumnEntryRegistry.java:241) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/net.minecraft.class_7655.modifyReturnValue$zch000$bigglobe$beginLoading(class_7655.java:1520) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_46619(class_7655.java:241) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_45121(class_7655.java:210) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.mixinextras$bridge$method_45121$40(class_7655.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.wrapOperation$bbe000$fabric-registry-sync-v0$wrapIsServerCall(class_7655.java:2555) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7655.method_56515(class_7655.java:193) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237.method_42098(class_7237.java:45) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.method_43612(Main.java:187) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1098) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1092) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:185) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.3]
+[15:05:46] [main/INFO]: Loaded 1463 recipes
+[15:05:46] [main/INFO]: Loaded 1522 advancements
+[15:05:46] [main/INFO]: [Faewulf's Lib] Reloaded diversity config file.
+[15:05:46] [main/INFO]: [Faewulf's Lib] Total config reloaded: 1
+[15:05:46] [main/INFO]: ColumnEntryRegistry end load: builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading@3438e8f5; override: null
+java.lang.Throwable: The following stack trace is NOT an error. It is debug information that is useful if you get data pack validation issues and none of your worlds load correctly.
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.endLoad(ColumnEntryRegistry.java:258) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/net.minecraft.class_7237.mdb3e067$bigglobe$lambda$bigglobe_finishLoadingColumnEntryRegistry$0$0(class_7237.java:539) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:653) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) [?:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:1104) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:1092) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:185) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.3]
+[15:05:48] [Big Globe Worker Thread/WARN]: Block minecraft:creaking_heart has no such property named active for input minecraft:creaking_heart[axis=y,active=false,creaking_heart_state=dormant,natural=true]
+[15:05:48] [main/INFO]: Applied 0 biome modifications to 0 of 117 new biomes in 1.917 ms
+[15:05:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:05:48] [Server thread/INFO]: Loading properties
+[15:05:48] [Server thread/INFO]: Default game type: SURVIVAL
+[15:05:48] [Server thread/INFO]: Generating keypair
+[15:05:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:05:49] [Server thread/INFO]: Using epoll channel type
+[15:05:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:05:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:05:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:05:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:05:49] [Server thread/INFO]: Preparing level "world"
+[15:05:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:05:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:05:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:05:55] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[15:05:55] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[15:05:56] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[15:05:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[15:05:57] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:05:57] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[15:05:58] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[15:05:58] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[15:05:59] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[15:05:59] [Server thread/INFO]: Time elapsed: 9960 ms
+[15:05:59] [Server thread/INFO]: Done (10.262s)! For help, type "help"
+[15:06:20] [Server thread/INFO]: Stopping the server
+[15:06:20] [Server thread/INFO]: Stopping server
+[15:06:20] [Server thread/INFO]: Saving players
+[15:06:20] [Server thread/INFO]: Saving worlds
+[15:06:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:06:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:06:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/bigglobe:hyperspace
+[15:06:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (hyperspace): All chunks are saved
+[15:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:06:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:06:22] [Server thread/INFO]: ColumnEntryRegistry resetting: builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading@3438e8f5; override: null
+java.lang.Throwable: The following stack trace is NOT an error. It is debug information that is useful if you get data pack validation issues and none of your worlds load correctly.
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.reset(ColumnEntryRegistry.java:236) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/builderb0y.bigglobe.columns.scripted.ColumnEntryRegistry$Loading.lambda$static$0(ColumnEntryRegistry.java:221) ~[Big%20Globe-5.0.8-MC1.21.8.jar:?]
+	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$6(ServerLifecycleEvents.java:76) ~[fabric-lifecycle-events-v1-2.6.4+db4dfd852c-f17cf17b59df5ffd.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.handler$zno000$fabric-lifecycle-events-v1$afterShutdownServer(MinecraftServer.java:3712) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:645) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3782(class_3176.java:543) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:748) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
